@@ -154,7 +154,7 @@ Deployment steps:
 
 ## 🤝 Contact
 
-Your Name - [kaustubhs2903@gmail.com]
+Kaustubh Sankhe - [kaustubhs2903@gmail.com]
 
 Project Link: [https://github.com/null-kaustubh/prepgenie](https://github.com/null-kaustubh/prepgenie)
 
